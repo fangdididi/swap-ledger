@@ -1,0 +1,4 @@
+# OCR of sampled frames, one line per frame (t=seconds: text)
+t=0.5: OATFIELD
+t=1.5: Oats that keep up with you
+t=8.5: oatfield.example @oatfieldco

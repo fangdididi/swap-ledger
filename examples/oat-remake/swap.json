@@ -1,0 +1,28 @@
+{
+  "language": "en",
+  "rates": {"read": 2.5, "speak": 2.6},
+  "from_brand": {
+    "names": ["Brightloaf", "Brightloaf Bakery"],
+    "handles": ["@brightloaf"],
+    "domains": ["brightloaf.example"],
+    "products": ["Morning Crust"],
+    "people": ["Pia the Brightloaf baker"],
+    "colors": ["#e4572e", "#ffc914"],
+    "sounds": ["oven-ding sonic logo"]
+  },
+  "to_brand": {
+    "names": ["Oatfield"],
+    "handles": ["@oatfieldco"],
+    "domains": ["oatfield.example"],
+    "products": ["Field Bar"],
+    "colors": ["#3d5a40", "#f4efe6"]
+  },
+  "facts": [
+    {"id": "F1", "text": "Field Bar has 9 g of protein per bar", "source": "nutrition label v3"},
+    {"id": "F2", "text": "Oatfield ships to 12 countries", "source": "shipping page, 2026-11"}
+  ],
+  "allow_tokens": [],
+  "channels_checked": {"text": "done", "logo": "done", "product": "done", "ui": "n/a", "voice": "done",
+                        "captions": "done", "palette": "done", "sound": "done", "people": "done", "meta": "done"},
+  "color_threshold": 8.0
+}

@@ -1,0 +1,12 @@
+id,shot,start,end,channel,what,action,replacement,fact,rights,note
+A1,1,0.0,1.5,logo,Brightloaf mark bounces in centre,SWAP,Oatfield mark with the same bounce,,owned,
+A2,1,0.4,3.0,text,"Headline 'Brightloaf: bread that wakes you up'",SWAP,Oats that keep up with you,,,
+A3,2,3.0,6.0,product,Morning Crust loaf turning on a plate,SWAP,Field Bar unwrapping on the same plate,,generated,new shot matches role/framing only
+A4,2,3.0,6.0,voice,"VO 'Baked fresh by Pia every dawn'",SWAP,Nine grams of protein in every Field Bar,F1,generated,consented voice
+A5,3,6.0,7.2,text,"Badge 'Voted #1 bakery 2025'",DROP,,,,no matching fact for Oatfield
+A6,3,6.0,8.0,text,Tagline,SWAP,Now shipping to 12 countries,F2,,
+A7,all,0,9,sound,Licensed bakery jingle + oven-ding sonic logo,SWAP,Oatfield's own four-bar sting,,licensed,
+A8,all,0,9,palette,Tomato red + yolk yellow backgrounds,SWAP,Moss green + oat cream,,,
+A9,3,7.0,9.0,people,Pia waving at camera,DROP,,,,
+A10,end,8.0,9.0,meta,End card URL + handle,SWAP,oatfield.example  @oatfieldco,,,
+A11,all,0,9,captions,Burned-in captions follow VO,SWAP,Nine grams of protein in every Field Bar,F1,,
